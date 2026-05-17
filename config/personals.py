@@ -12,9 +12,7 @@ GitHub:     https://github.com/GodsScion/Auto_job_applier_linkedIn
 version:    2024.11.28.16.00
 '''
 
-
 ###################################################### CONFIGURE YOUR TOOLS HERE ######################################################
-
 
 # >>>>>>>>>>> Easy Apply Questions & Inputs <<<<<<<<<<<
 
